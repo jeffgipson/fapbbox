@@ -1,0 +1,43 @@
+ContentBox 4.0.7
+- Updated ContentBuilder.js
+- Updated readme.txt with more configuration info
+
+ContentBox 4.0.6
+- Updated ContentBuilder.js
+- Fix some section templates' layout
+- Adding undo & redo methods (see readme)
+
+ContentBox 4.0.5
+- Updated ContentBuilder.js
+- Fix/update language file
+
+ContentBox 4.0.4
+- Updated ContentBuilder.js
+- Updated examples
+- Updated PHP image handler examples
+- Add tooltip
+- Updated icons
+- More stable box & section tool visibility
+- Fixes
+
+ContentBox 4.0.3
+- Updated ContentBuilder.js
+- New input text to specify content size in Box Settings dialog
+- Re-arrange toolbar button (list & text setting)
+- Fix overlay setting in video background dialog
+- Other fixes
+
+ContentBox 4.0.2
+- Updated ContentBuilder.js
+- Fix/update language file
+- Other fixes
+
+ContentBox.js 4.0.1
+- Updated ContentBuilder.js
+- Fix custom colors
+- Css adjustment
+- Fix Bootstrap column building
+- Other fixes
+
+ContentBox.js 4.0
+- Updated with the new ContentBuilder.js 4
